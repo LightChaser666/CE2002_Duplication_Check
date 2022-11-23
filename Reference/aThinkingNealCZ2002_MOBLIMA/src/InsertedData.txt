@@ -1,0 +1,137 @@
+CineplexDB:
+1. Jurong Point Cineplex
+    cineplex ID - 1
+    cinema 101 - normal
+        movieID: 10001 date: 2019-11-13 start: 20-10 3d: false duration: 2.5
+    cinema 102 - normal
+        movieID: 10001 date: 2019-11-13 start: 15-30 3d: false duration: 2.5
+    cinema 103 - gold
+        movieID: 10004 date: 2019-11-14 start: 16-30 3d: true duration: 3
+    cinema 104 - platinum
+
+2. Suntec City Cineplex
+    Cineplex ID - 2
+    cinema 201 - normal
+        movieID: 10004 date: 2019-11-15 start: 11-30 3d: false duration: 3
+    cinema 202 - normal
+        movieID: 10004 date: 2019-11-15 start: 14-30 3d: true duration: 3
+        movieID: 10004 date: 2019-11-15 start: 20-30 3d: true duration: 3
+    cinema 203 - gold
+        movieID: 10001 date: 2019-11-30 start: 13-40 3d: N duration: 2.5
+    cinema 204 - platinum
+        movieID: 10001 date: 2019-11-21 start: 14-40 3d: N duration: 2.5
+3. Vivocity Cineplex
+    Cineplex ID - 3
+    cinema 301 - normal
+        movieID: 10001 date: 2019-11-15 start: 16-20 3d: N duration: 2.5
+    cinema 302 - normal
+        movieID: 10001 date: 2019-11-16 start: 09-20 3d: N duration: 2.5
+    cinema 303 - normal
+        movieID: 10004 date: 2019-11-16 start: 10-30 3d: true duration: 3
+    cinema 304 - gold
+        movieID: 10002 date: 2019-11-12 start: 17-10 3d: false duration: 2.3
+    cinema 305 - gold
+        movieID: 10004 date: 2019-11-17 start: 21-30 3d: true duration: 3
+    cinema 306 - platinum
+        movieID: 10004 date: 2019-11-17 start: 19-30 3d: true duration: 3
+====================================================================================
+MovieGoerDB:
+11 MovieGoers (MoviegoerID:  1-11)
+1. Duan Yiting
+    ID - 10
+    Phone - 27364526
+    Email - duan@gmail.com
+    Age - 19
+2. Chen Xinyi
+    ID - 11
+    Phone - 91310725
+    Email - chen@gmail.com
+    Age - 21
+3. Gan Xin
+    ID - 12
+    Phone - 82749284
+    Email - gan@gmail.com
+    Age - 11
+4. Hunag Tiancheng
+    ID - 13
+    Phone - 92837492
+    Email - huang@gmail.com
+    Age - 19
+5. Jin Chengkai
+    ID - 14
+    Phone - 82736290
+    Email - jin@gmail.com
+    Age - 61
+====================================================================================
+StaffRecordDB:
+ID: xchen032 password: singapore
+ID: 123456 password: 123456
+ID: Andy056 password: 123456
+====================================================================================
+MovieInfoDB:
+1.
+    movie ID: 10001
+    movie title: Joker
+    ageLimit: M18
+    category: Thriller
+    number of cineplexes for this movie: 2
+    cineplex ID 1: 1
+    cineplex ID 2: 2
+    cineplex ID 3: 3
+    Please enter showing status for the new movie: Currently Showing
+    Please enter synopsis for the movie: Thought provoking
+    Please indicate whether this movie is available in 2D (Y/N): Y
+    Please indicate whether this movie is available in 3D (Y/N): N
+    Please indicate whether this movie is a blockbuster (Y/N): Y
+    Enter the name of the director for this movie: Todd Philip
+    Please enter the number of cast for this movie: 2
+    cast1: Joaquin Pheonix
+    cast2: Zazie Beets
+    cast3: Robert De Niro
+    cast4: Frances Conroy
+
+2.
+    movie ID: 10002
+    movie title: Midway
+    ageLimit: PG13
+    Category: War
+    number of cineplex: 1
+    cineplex ID 1: 3
+    preview
+    battle of midway
+    Y
+    N
+    Roland Emmerich
+
+3.
+    movie ID: 10003
+    movie title: Ford V. Farrari
+    ageLimit: PG13
+    Category: Thriller
+    number of cineplex: 2
+    cineplex ID 1: 2
+    cineplex ID 2: 3
+    forthcoming
+    driver
+    Y
+    N
+4.
+    movieID: 10004
+    movie title: Star Wars: Rise of Skywalker
+    AgeLimit: PG
+    Category: Science Fiction
+    no. cineplex: 1 2 3
+    currently showing
+    starwars
+    yes
+    yes
+    yes
+    cast: Daisy Ridley
+        Mark Hamil
+        Carrie Fisher
+====================================================================================
+Movie Schedule
+1.
+
+
+
