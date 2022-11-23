@@ -20,12 +20,11 @@ The following Python packages have to be installed:
 - Git clone the repository (which contains 20 repositories from github. You can add more).
 - Put the duplicate_detect_java.py script, the Reference folder, and all your group assignment together as the following screenshot:
 
-![tool_usage](E:\Courses\CZ2002TA\Duplicate\Summary\markdown\tool_usage.PNG)
+![tool_usage](.\blob\master\tool_usage.PNG)
 
-- Open your IDE, modify the script to match your group names:![tool_usage2](E:\Courses\CZ2002TA\Duplicate\Summary\markdown\tool_usage2.PNG)
+- Open your IDE, modify the script to match your group names:![tool_usage2](.\blob\master\tool_usage2.PNG)
 
-- Run it, you will see something like this:
-- ![tool_usage3](E:\Courses\CZ2002TA\Duplicate\Summary\markdown\tool_usage3.PNG)
+- Run it, you will see the result
 
 ## Important note
 
