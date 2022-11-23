@@ -17,7 +17,7 @@ The following Python packages have to be installed:
 
 ## Usage
 
-- Unzip the Reference.zip (which contains 20 repositories from github. You can add more).
+- Git clone the repository (which contains 20 repositories from github. You can add more).
 - Put the duplicate_detect_java.py script, the Reference folder, and all your group assignment together as the following screenshot:
 
 ![tool_usage](E:\Courses\CZ2002TA\Duplicate\Summary\markdown\tool_usage.PNG)
